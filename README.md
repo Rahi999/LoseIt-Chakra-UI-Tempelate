@@ -1,2 +1,2 @@
-# LoseIt-Chakra-UI-Tempelate
+# LoseIt.com
 Created with CodeSandbox
